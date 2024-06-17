@@ -1,0 +1,11 @@
+Index,ID,First,Last,Age,Organization,Team,Level,Contract Status,Type,Waiver Options,Base Salary,Years Left,Signing Bonus,Payroll Salary,Total Adj. Salary,Aquired
+0,000000000,Braxton,Ashcraft,24,Pittsburgh,Pittsburgh,MLB,Pre-Arb,Two-Way,3,0,1,1825000,0,0,2018
+1,000000001,David,Bednar,29,Pittsburgh,Pittsburgh,MLB,Arb 1,Major League,3,4510000,1,0,4510000,4510000,2021
+2,000000002,Ryan,Borucki,29,Pittsburgh,Pittsburgh,MLB,Arb 3,Major League,0,1600000,1,0,1600000,1600000,2023
+3,000000003,Mike,Burrows,24,Pittsburgh,Pittsburgh,MLB,Pre-Arb,Two-Way,2,0,1,500000,0,0,2018
+4,000000004,Aroldis,Chapman,36,Pittsburgh,Pittsburgh,MLB,Vet,Major League,0,10500000,1,0,10500000,10500000,2024
+5,000000005,Roansy,Contreras,24,Pittsburgh,Pittsburgh,MLB,Pre-Arb,Two-Way,1,0,1,0,0,0,2021
+6,000000006,JT,Brubaker,30,Pittsburgh,IL,MLB,Arb 2,Major League,2,2275000,1,0,2275000,2275000,2015
+7,000000007,Bailey,Falter,26,Pittsburgh,Pittsburgh,MLB,Pre-Arb,Two-Way,0,0,1,0,0,0,2023
+8,000000008,Josh,Fleming,27,Pittsburgh,Pittsburgh,MLB,Vet,Two-Way,1,850000,1,0,850000,850000,2014
+9,000000009,Marco,Gonzales,32,Pittsburgh,Pittsburgh,MLB,Vet,Major League,0,12000000,2,250000,12250000,3000000,2024
